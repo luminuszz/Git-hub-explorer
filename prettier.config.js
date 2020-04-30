@@ -1,5 +1,6 @@
 module.exports = {
   singleQuote: true,
   trallingComma: 'all',
-  allowParens: 'avoid'
+  printWidth: 80,
+  allowParens: 'avoid',
 };

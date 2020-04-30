@@ -2,34 +2,46 @@ module.exports = {
   env: {
     browser: true,
     es6: true,
-    jest: true
+    jest: true,
   },
   extends: [
     'airbnb',
+    'eslint:recommended',
     'plugin:@typescript-eslint/recommended',
+    'plugin:@typescript-eslint/eslint-recommended',
     'prettier/@typescript-eslint',
-    'eslint-plugin-import-helpers'
+    'prettier/react',
+    'prettier',
+    'plugin:react-hooks/recommended',
   ],
   globals: {
     Atomics: 'readonly',
-    SharedArrayBuffer: 'readonly'
+    SharedArrayBuffer: 'readonly',
   },
   parser: '@typescript-eslint/parser',
   parserOptions: {
     ecmaFeatures: {
-      jsx: true
+      jsx: true,
     },
     ecmaVersion: 2018,
-    sourceType: 'module'
+    sourceType: 'module',
   },
-  plugins: ['react', '@typescript-eslint', 'jsx-a11y', 'import'],
+  plugins: [
+    'react',
+    '@typescript-eslint',
+    'jsx-a11y',
+    'import',
+    'eslint-plugin-import-helpers',
+    'prettier',
+    'react-hooks',
+  ],
   rules: {
     'prettier/prettier': 'error',
     'react/jsx-filename-extension': [
       'error',
       {
-        extensions: ['.tsx']
-      }
+        extensions: ['.tsx'],
+      },
     ],
     'import/extensions': 'off',
     'import/no-unresolved': 'off',
@@ -40,13 +52,9 @@ module.exports = {
       'warn',
       {
         newlinesBetween: 'always',
-        groups: [
-          'module',
-          '/^@shared/',
-          ['parent', 'sibling', 'index', 'declare']
-        ],
-        alphabetize: { order: 'asc', ignoreCase: true }
-      }
-    ]
-  }
+        groups: ['module', '/^@shared/', ['parent', 'sibling', 'index']],
+        alphabetize: { order: 'asc', ignoreCase: true },
+      },
+    ],
+  },
 };
