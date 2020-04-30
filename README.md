@@ -56,9 +56,9 @@ $ yarn start
 
 ## Stay in touch
 
- -Github- [Luminuszz](https://github.com/luminuszz)
-- Linkedin -[Davi Ribeiro](hhttps://www.linkedin.com/in/davi-ribeiro-luminuszz)
-- Twitter - [@luminuszz1](https://twitter.com/luminuszz1)
+ -Github- -[Luminuszz](https://github.com/luminuszz)
+ -Linkedin -[Davi Ribeiro](https://www.linkedin.com/in/davi-ribeiro-luminuszz)
+ -Twitter -[@luminuszz1](https://twitter.com/luminuszz1)
 
 ## License
 
