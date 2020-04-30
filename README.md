@@ -61,4 +61,4 @@ $ yarn start
 
 ## License
 
-[License](https://github.com/luminuszz/Git-hub-explorer/blob/master/LICENSE)
+[License MIT](https://github.com/luminuszz/Git-hub-explorer/blob/master/LICENSE)
