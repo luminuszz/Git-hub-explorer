@@ -7,7 +7,7 @@
 ## Description
 
 
-   <p> The git-hub-explorer, this a easy way to find repositories. This project was used for fix my skills using React <        </p>
+   <p> The git-hub-explorer, this a easy way to find repositories. This project was used for fix my skills using React         </p>
 
 
 ## Features
