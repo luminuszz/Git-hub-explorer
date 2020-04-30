@@ -1,44 +1,76 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
+</p>
 
-## Available Scripts
+[travis-image]: https://api.travis-ci.org/nestjs/nest.svg?branch=master
+[travis-url]: https://travis-ci.org/nestjs/nest
+[linux-image]: https://img.shields.io/travis/nestjs/nest/master.svg?label=linux
+[linux-url]: https://travis-ci.org/nestjs/nest
+  
+ 
 
-In the project directory, you can run:
+## Description
 
-### `yarn start`
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+      <p> The git-hub-explorer, this a easy way to find repositories. This project was used for fix my skills using React <         </p>
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+    this my github [luminuszz](https://github.com/luminuszz)
 
-### `yarn test`
+## Features
+      This project use  [create-react-app](https://github.com/facebook/create-react-app)
+      React version : 16.13.0
+      typescript version: 3.7.2
+  
+  
+  
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `yarn build`
+## Installation
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+```bash
+$ npm install
+$ yarn install
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Running the app
 
-### `yarn eject`
+```bash
+# development
+$ npm run start
+$ yarn start
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+```
+## Preview
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+    ![image](https://user-images.githubusercontent.com/48535259/80712112-d717af00-8ac7-11ea-897c-9b8d0eccf06b.png)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+    ![image](https://user-images.githubusercontent.com/48535259/79010566-a1228300-7b38-11ea-98c3-3cc54966d540.png)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+    ![image](https://user-images.githubusercontent.com/48535259/79010599-af709f00-7b38-11ea-8e09-3ad68d15930f.png)
+    
+    ![image](https://user-images.githubusercontent.com/48535259/80712112-d717af00-8ac7-11ea-897c-9b8d0eccf06b.png)
 
-## Learn More
+    ![image](https://user-images.githubusercontent.com/48535259/80712397-54432400-8ac8-11ea-8e32-cf0486d2ed1f.png)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+    ![image](https://user-images.githubusercontent.com/48535259/80712747-cb78b800-8ac8-11ea-8ce8-8303c13f932b.png)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+
+    ![image](https://user-images.githubusercontent.com/48535259/80712606-93717500-8ac8-11ea-934e-a358239f1ccf.png)
+
+
+
+
+## Support
+
+Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
+
+## Stay in touch
+
+- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
+- Website - [https://nestjs.com](https://nestjs.com/)
+- Twitter - [@nestframework](https://twitter.com/nestframework)
+
+## License
+
+  Nest is [MIT licensed](LICENSE).
