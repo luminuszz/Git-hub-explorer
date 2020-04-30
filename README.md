@@ -43,20 +43,20 @@ $ yarn start
 ```
 ## Preview
 
-    ![image](https://user-images.githubusercontent.com/48535259/80712112-d717af00-8ac7-11ea-897c-9b8d0eccf06b.png)
+   ![image](https://user-images.githubusercontent.com/48535259/80712112-d717af00-8ac7-11ea-897c-9b8d0eccf06b.png)
 
-    ![image](https://user-images.githubusercontent.com/48535259/79010566-a1228300-7b38-11ea-98c3-3cc54966d540.png)
+   ![image](https://user-images.githubusercontent.com/48535259/79010566-a1228300-7b38-11ea-98c3-3cc54966d540.png)
 
-    ![image](https://user-images.githubusercontent.com/48535259/79010599-af709f00-7b38-11ea-8e09-3ad68d15930f.png)
+   ![image](https://user-images.githubusercontent.com/48535259/79010599-af709f00-7b38-11ea-8e09-3ad68d15930f.png)
     
-    ![image](https://user-images.githubusercontent.com/48535259/80712112-d717af00-8ac7-11ea-897c-9b8d0eccf06b.png)
+   ![image](https://user-images.githubusercontent.com/48535259/80712112-d717af00-8ac7-11ea-897c-9b8d0eccf06b.png)
 
-    ![image](https://user-images.githubusercontent.com/48535259/80712397-54432400-8ac8-11ea-8e32-cf0486d2ed1f.png)
+   ![image](https://user-images.githubusercontent.com/48535259/80712397-54432400-8ac8-11ea-8e32-cf0486d2ed1f.png)
 
-    ![image](https://user-images.githubusercontent.com/48535259/80712747-cb78b800-8ac8-11ea-8ce8-8303c13f932b.png)
+   ![image](https://user-images.githubusercontent.com/48535259/80712747-cb78b800-8ac8-11ea-8ce8-8303c13f932b.png)
 
 
-    ![image](https://user-images.githubusercontent.com/48535259/80712606-93717500-8ac8-11ea-934e-a358239f1ccf.png)
+   ![image](https://user-images.githubusercontent.com/48535259/80712606-93717500-8ac8-11ea-934e-a358239f1ccf.png)
 
 
 
