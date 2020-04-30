@@ -12,10 +12,10 @@
 
 ## Features
 
-   This project use  [create-react-app](https://github.com/facebook/create-react-app)
-   React version : 16.13.0
-   typescript version: 3.7.2
-   styled-components version: ^5.1.0
+  - This project use  [create-react-app](https://github.com/facebook/create-react-app)
+  - React version : 16.13.0
+  - typescript version: 3.7.2
+  - styled-components version: ^5.1.0
   
 
 
