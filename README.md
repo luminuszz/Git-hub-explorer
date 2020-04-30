@@ -61,4 +61,4 @@ $ yarn start
 
 ## License
 
-  No have
+[License](https://github.com/luminuszz/Git-hub-explorer/blob/master/LICENSE)
